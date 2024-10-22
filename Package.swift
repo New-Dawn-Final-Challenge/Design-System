@@ -4,21 +4,21 @@
 import PackageDescription
 
 let package = Package(
-    name: "DesignSystem",
+    name: "Design-System",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "DesignSystem",
-            targets: ["DesignSystem"]),
+            name: "Design-System",
+            targets: ["Design-System"]),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "DesignSystem"),
+            name: "Design-System"),
         .testTarget(
-            name: "DesignSystemTests",
-            dependencies: ["DesignSystem"]
+            name: "Design-SystemTests",
+            dependencies: ["Design-System"]
         ),
     ]
 )

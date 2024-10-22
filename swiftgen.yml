@@ -1,5 +1,5 @@
-input_dir: Sources/DesignSystem/Resources
-output_dir: Sources/DesignSystem
+input_dir: Sources/Design-System/Resources
+output_dir: Sources/Design-System
 
 xcassets:
   inputs:
