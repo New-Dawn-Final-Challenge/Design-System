@@ -1,0 +1,35 @@
+input_dir: Sources/Design-System/Resources
+output_dir: Sources/Design-System
+
+# Image assets
+xcassets:
+  inputs:
+    - Images.xcassets
+  outputs:
+    - templateName: swift5
+      output: Images.swift
+      params:
+        publicAccess: true
+        enumName: Images
+
+# Color assets (defined in xcassets or color sets)
+xcassets:
+  inputs:
+    - Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Colors.swift
+      params:
+        publicAccess: true
+        enumName: Colors
+
+# Custom fonts (e.g., .ttf or .otf font files)
+fonts:
+  inputs:
+    - Fonts
+  outputs:
+    - templateName: swift5
+      output: Fonts.swift
+      params:
+        publicAccess: true
+        enumName: Fonts
