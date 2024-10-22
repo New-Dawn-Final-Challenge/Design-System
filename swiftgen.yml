@@ -7,27 +7,9 @@ xcassets:
     - Colors.xcassets
     - Images.xcassets
   outputs:
-    # Output for image assets
+    # Output for both color and image assets under a single "Assets" enum
     - templatePath: swift6.stencil
       output: Assets.swift
       params:
         publicAccess: true
-        enumName: Images
-
-    # Output for color assets
-    - templatePath: swift6.stencil
-      output: Assets.swift
-      params:
-        publicAccess: true
-        enumName: Colors
-
-# Custom fonts
-fonts:
-  inputs:
-    - Fonts
-  outputs:
-    - templateName: swift5
-      output: Fonts.swift
-      params:
-        publicAccess: true
-        enumName: Fonts
+        enumName: Assets
