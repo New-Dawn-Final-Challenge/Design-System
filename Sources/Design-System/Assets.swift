@@ -53,6 +53,7 @@ public enum Assets {
     public static let optionScreen2 = ImageAsset(name: "optionScreen2")
     public static let optionScreenButton1 = ImageAsset(name: "optionScreenButton1")
     public static let optionScreenButton2 = ImageAsset(name: "optionScreenButton2")
+    public static let placeholderCharacter = ImageAsset(name: "placeholderCharacter")
   }
 }
 // swiftlint:enable identifier_name line_length nesting type_body_length type_name
