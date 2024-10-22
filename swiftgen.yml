@@ -1,13 +1,11 @@
 input_dir: Sources/Design-System/Resources
 output_dir: Sources/Design-System
 
-# Colors and images
 xcassets:
   inputs:
     - Colors.xcassets
     - Images.xcassets
   outputs:
-    # Output for both color and image assets under a single "Assets" enum
     - templatePath: swift6.stencil
       output: Assets.swift
       params:
