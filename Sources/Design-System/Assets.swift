@@ -26,7 +26,16 @@ public typealias AssetImageTypeAlias = ImageAsset.Image
 public enum Colors {
   public enum Colors {
     public static let accentPrimary = ColorAsset(name: "accent-primary")
+    public static let accentSecondary = ColorAsset(name: "accent-secondary")
+    public static let alert = ColorAsset(name: "alert")
+    public static let bgFillPrimary = ColorAsset(name: "bg-fill-primary")
     public static let fillPrimary = ColorAsset(name: "fill-primary")
+    public static let secondaryBlue = ColorAsset(name: "secondary-blue")
+    public static let secondaryGreenVariation = ColorAsset(name: "secondary-green-variation")
+    public static let secondaryGreen = ColorAsset(name: "secondary-green")
+    public static let secondaryOrange = ColorAsset(name: "secondary-orange")
+    public static let secondaryPurpleVariation = ColorAsset(name: "secondary-purple-variation")
+    public static let secondaryPurple = ColorAsset(name: "secondary-purple")
     public static let textSecondary = ColorAsset(name: "text-secondary")
   }
   public enum Images {
