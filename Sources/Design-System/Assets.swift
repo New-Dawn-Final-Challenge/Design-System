@@ -44,6 +44,7 @@ public enum Assets {
     public static let panelAccessoryB = ImageAsset(name: "panelAccessoryB")
     public static let sliderBar = ImageAsset(name: "sliderBar")
     public static let sliderDragger = ImageAsset(name: "sliderDragger")
+    public static let nebula = ImageAsset(name: "nebula")
     public static let skyAndStars = ImageAsset(name: "skyAndStars")
     public static let spaceShip = ImageAsset(name: "spaceShip")
     public static let environmentalDegradationComplex = ImageAsset(name: "environmentalDegradationComplex")
