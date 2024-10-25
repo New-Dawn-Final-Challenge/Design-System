@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Sem título 21.png",
+      "filename" : "nebula.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Sem título 23.png",
+      "filename" : "nebula@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Sem título 22.png",
+      "filename" : "nebula@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
