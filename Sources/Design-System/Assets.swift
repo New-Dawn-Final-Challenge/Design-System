@@ -47,6 +47,7 @@ public enum Assets {
     public static let nebula = ImageAsset(name: "nebula")
     public static let skyAndStars = ImageAsset(name: "skyAndStars")
     public static let spaceShip = ImageAsset(name: "spaceShip")
+    public static let sparkles = ImageAsset(name: "sparkles")
     public static let environmentalDegradationComplex = ImageAsset(name: "environmentalDegradationComplex")
     public static let environmentalDegradationSimple = ImageAsset(name: "environmentalDegradationSimple")
     public static let illbeingComplex = ImageAsset(name: "illbeingComplex")
