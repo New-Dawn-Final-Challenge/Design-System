@@ -39,11 +39,17 @@ public enum Assets {
     public static let textSecondary = ColorAsset(name: "text-secondary")
   }
   public enum Images {
+    public static let accessibilityPanel = ImageAsset(name: "accessibilityPanel")
+    public static let draggerBlackPanel = ImageAsset(name: "draggerBlackPanel")
+    public static let indicatorsBlackPanel = ImageAsset(name: "indicatorsBlackPanel")
+    public static let leftBlackPanel = ImageAsset(name: "leftBlackPanel")
     public static let panelAccessories = ImageAsset(name: "panelAccessories")
     public static let panelAccessoryA = ImageAsset(name: "panelAccessoryA")
     public static let panelAccessoryB = ImageAsset(name: "panelAccessoryB")
+    public static let rightBlackPanel = ImageAsset(name: "rightBlackPanel")
     public static let sliderBar = ImageAsset(name: "sliderBar")
     public static let sliderDragger = ImageAsset(name: "sliderDragger")
+    public static let yearBlackPanel = ImageAsset(name: "yearBlackPanel")
     public static let nebula = ImageAsset(name: "nebula")
     public static let skyAndStars = ImageAsset(name: "skyAndStars")
     public static let spaceShip = ImageAsset(name: "spaceShip")
@@ -65,6 +71,7 @@ public enum Assets {
     public static let musicSoundScreen = ImageAsset(name: "musicSoundScreen")
     public static let hapticScreen = ImageAsset(name: "hapticsScreen")
     public static let gestureScreen = ImageAsset(name: "gestureScreen")
+    public static let yearScreen = ImageAsset(name: "yearScreen")
   }
 }
 // swiftlint:enable identifier_name line_length nesting type_body_length type_name
