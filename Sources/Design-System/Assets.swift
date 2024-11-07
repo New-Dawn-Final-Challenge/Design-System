@@ -62,15 +62,15 @@ public enum Assets {
     public static let sociopoliticalInstabilitySimple = ImageAsset(name: "sociopoliticalInstabilitySimple")
     public static let characterScreen = ImageAsset(name: "characterScreen")
     public static let eventsScreen = ImageAsset(name: "eventsScreen")
+    public static let gestureScreen = ImageAsset(name: "gestureScreen")
+    public static let hapticsScreen = ImageAsset(name: "hapticsScreen")
     public static let indicatorsScreen = ImageAsset(name: "indicatorsScreen")
+    public static let musicSoundScreen = ImageAsset(name: "musicSoundScreen")
     public static let optionScreen1 = ImageAsset(name: "optionScreen1")
     public static let optionScreen2 = ImageAsset(name: "optionScreen2")
     public static let optionScreenButton1 = ImageAsset(name: "optionScreenButton1")
     public static let optionScreenButton2 = ImageAsset(name: "optionScreenButton2")
     public static let placeholderCharacter = ImageAsset(name: "placeholderCharacter")
-    public static let musicSoundScreen = ImageAsset(name: "musicSoundScreen")
-    public static let hapticScreen = ImageAsset(name: "hapticsScreen")
-    public static let gestureScreen = ImageAsset(name: "gestureScreen")
     public static let yearScreen = ImageAsset(name: "yearScreen")
   }
 }
