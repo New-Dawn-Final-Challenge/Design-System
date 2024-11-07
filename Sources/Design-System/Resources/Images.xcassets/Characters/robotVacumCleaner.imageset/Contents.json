@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "vacumCleaner.png",
+      "filename" : "robotVacumCleaner.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "vacumCleaner@2x.png",
+      "filename" : "robotVacumCleaner@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "vacumCleaner@3x.png",
+      "filename" : "robotVacumCleaner@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
