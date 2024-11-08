@@ -43,6 +43,7 @@ public enum Assets {
     public static let draggerBlackPanel = ImageAsset(name: "draggerBlackPanel")
     public static let indicatorsBlackPanel = ImageAsset(name: "indicatorsBlackPanel")
     public static let leftBlackPanel = ImageAsset(name: "leftBlackPanel")
+    public static let monitorsAll = ImageAsset(name: "monitorsAll")
     public static let panelAccessories = ImageAsset(name: "panelAccessories")
     public static let panelAccessoryA = ImageAsset(name: "panelAccessoryA")
     public static let panelAccessoryB = ImageAsset(name: "panelAccessoryB")
