@@ -85,6 +85,8 @@ public enum Assets {
     public static let robotVacumCleaner = ImageAsset(name: "robotVacumCleaner")
     public static let sensionalistTVHost = ImageAsset(name: "sensionalistTVHost")
     public static let slowLogisticEngineer = ImageAsset(name: "slowLogisticEngineer")
+    public static let specialFinalApocalypiticalCat = ImageAsset(name: "specialFinalApocalypiticalCat")
+    public static let specialFinalRobotVaccum = ImageAsset(name: "specialFinalRobotVaccum")
     public static let ultraNewAgeEnvironmentalist = ImageAsset(name: "ultraNewAgeEnvironmentalist")
     public static let audienceEnd = ImageAsset(name: "audienceEnd")
     public static let environmentalEnd = ImageAsset(name: "environmentalEnd")
